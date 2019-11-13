@@ -6,3 +6,5 @@ test.js
 coverage
 package-lock.json
 .npmrc
+dist
+
